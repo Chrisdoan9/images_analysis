@@ -2,6 +2,9 @@ Cellpose segmentation
 
 This project applies Cellpose to perform cell segmentation on triple-negative breast cancer (TNBC) histopathology images.
 
+This workflow was adapted from the official Cellpose notebook:
+https://github.com/MouseLand/cellpose/blob/main/notebooks/run_Cellpose-SAM.ipynb
+
 Overview  
 	•	Load H&E pathology images from a public TNBC dataset  
 	•	Run Cellpose for cell segmentation  
